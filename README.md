@@ -40,4 +40,4 @@ f3d/
 `pip install -r requirements.txt`
 `python app.py`
 
-MIT License ？
+Apache-2.0 license
